@@ -81,3 +81,11 @@
 
 ### Run
 `java -cp ./dependencies/*:./ Main`
+
+## Command line - Gradle
+
+### Get Dependencies & Compile
+`./gradlew build`
+
+### Run
+`./gradlew run`
